@@ -6,7 +6,7 @@ createApp({
     // DEFINISCO IL METODO data () NEL QUALE INSERIRO' UN RETURN
     data(){
         return {
-            
+            message: "Buongiorno! E, casomai non ti rivedessi, buon pomeriggio, buonasera e buonanotte!"
         }
     } 
-})
+}).mount('#app')
